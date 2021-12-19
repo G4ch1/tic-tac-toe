@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tic tac toe",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
